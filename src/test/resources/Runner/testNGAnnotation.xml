@@ -1,0 +1,9 @@
+<suite name ="Test">
+
+    <test name ="LearnTestNG">
+        <classes>
+            <class name="Annotation"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,16 @@
+<suite name ="Test">
+    <groups>
+        <run>
+            <include name ="regression"/>
+        </run>
+    </groups>
+    <test name ="TestNG">
+
+        <classes>
+            <class name="LearnTestNG"/>
+            <class name="TestClass2"/>
+
+        </classes>
+    </test>
+
+</suite>

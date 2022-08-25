@@ -1,0 +1,13 @@
+<suite name ="Test">
+    <listeners>
+        <listener class-name = "AnnotationTransformer"/>
+
+    </listeners>
+
+    <test name ="LearnTestNG">
+        <classes>
+            <class name="ListenerTest"/>
+        </classes>
+    </test>
+
+</suite>
